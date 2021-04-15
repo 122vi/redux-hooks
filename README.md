@@ -3,7 +3,7 @@
 ## Projeto feito e funcionando
 ![image](https://user-images.githubusercontent.com/71889111/114879608-bd09d600-9dd7-11eb-82f3-ce9fba184e27.png)
 
-## Funcionalidade
+## Finalidade
 O projeton tem como finalidade, mostrar os números. Nele contêm um botão (adiconar), onde você clica para mostra-los, e conforme os números vão passando, no lugar no titulo "React App" eles são exibidos também. 
 
 ## O que foi usado
